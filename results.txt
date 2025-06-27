@@ -1,0 +1,60 @@
+ANÁLISIS LÉXICO Y SINTÁCTICO - LITTLE ENGLISH
+==================================================
+
+Línea 1: The big cat sits.
+✓ ANÁLISIS EXITOSO
+----------------------------------------
+
+Línea 2: A small dog runs in the house.
+✓ ANÁLISIS EXITOSO
+----------------------------------------
+
+Línea 3: The red car is on the table.
+✓ ANÁLISIS EXITOSO
+----------------------------------------
+
+Línea 4: An old man walks with a young woman.
+✓ ANÁLISIS EXITOSO
+----------------------------------------
+
+Línea 5: The happy child reads a blue book.
+✗ ERROR SINTÁCTICO: Se esperaba un punto al final de la oración
+----------------------------------------
+
+Línea 6: A tall tree stands in the garden.
+✗ ERROR LÉXICO: Token desconocido: 'garden' en posición 26
+----------------------------------------
+
+Línea 7: The small cat sleeps under the big table.
+✓ ANÁLISIS EXITOSO
+----------------------------------------
+
+Línea 8: A green flower is by the old house.
+✓ ANÁLISIS EXITOSO
+----------------------------------------
+
+Línea 9: The sad woman sits on a red chair.
+✓ ANÁLISIS EXITOSO
+----------------------------------------
+
+Línea 10: A big dog error test.
+✗ ERROR LÉXICO: Token desconocido: 'error' en posición 10
+----------------------------------------
+
+Línea 11: The cat runs
+✗ ERROR SINTÁCTICO: Se esperaba un punto al final de la oración
+----------------------------------------
+
+Línea 12: An invalid word test.
+✗ ERROR LÉXICO: Token desconocido: 'invalid' en posición 3
+----------------------------------------
+
+Línea 13: The big small cat sits.
+✓ ANÁLISIS EXITOSO
+----------------------------------------
+
+RESUMEN
+====================
+Total de líneas procesadas: 13
+Análisis exitosos: 8
+Errores encontrados: 5

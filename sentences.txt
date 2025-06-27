@@ -1,0 +1,13 @@
+The big cat sits.
+A small dog runs in the house.
+The red car is on the table.
+An old man walks with a young woman.
+The happy child reads a blue book.
+A tall tree stands in the garden.
+The small cat sleeps under the big table.
+A green flower is by the old house.
+The sad woman sits on a red chair.
+A big dog error test.
+The cat runs
+An invalid word test.
+The big small cat sits.
